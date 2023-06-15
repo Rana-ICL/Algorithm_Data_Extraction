@@ -1,4 +1,4 @@
-#RMI Feature Extraction Algorithm
+RMI Feature Extraction Algorithm
 
 This repository contains an algorithm specifically developed for the extraction of crucial features from Richtmyer-Meshkov Instabilities (RMIs). The algorithm is designed to analyze RMI data and extract four key characteristics: amplitude, span, stream, and neck.
 
